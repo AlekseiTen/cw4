@@ -37,9 +37,10 @@ class HH(Parser):
         while self.params.get('page') != 5:
             response = requests.get(self.url, headers=self.__headers, params=self.params)
             response.raise_for_status()
-            vacancies = response.json()['items']
-            self.vacancies.extend(vacancies)
+            vacancy = response.json()['items']
+            self.vacancies.extend(vacancy)
             self.params['page'] += 1
+
         return self.vacancies
 
     def parse_vacancies(self, vacancies: list[dict]) -> list[dict]:
@@ -48,15 +49,13 @@ class HH(Parser):
         items = []
 
         for i in vacancies:
-            id = i.get('id')
-            name = i.get('name')
+            vacancy_id = i.get('id')
+            vacancy_name = i.get('name')
             salary_dict = i.get('salary')
-
             salary_from = salary_dict.get('from')
             if salary_from is None:
                 salary_from = 0
-
-            url = i.get('alternate_url')
+            vacancy_url = i.get('alternate_url')
 
             snippet_dict = i.get('snippet')
             snippet_requirement = snippet_dict.get('requirement')
@@ -65,9 +64,9 @@ class HH(Parser):
             else:
                 snippet_requirement = 'нет требований'
 
-            dict = {'id': id,
-                    'name': name,
-                    'url': url,
+            dict = {'vacancy_id': vacancy_id,
+                    'vacancy_name': vacancy_name,
+                    'vacancy_url': vacancy_url,
                     'salary_from': salary_from,
                     'snippet_requirement': snippet_requirement}
             items.append(dict)
@@ -75,7 +74,13 @@ class HH(Parser):
         return items
 
 
-# hh_api = HH()
-# load_vac = hh_api.load_vacancies('python')
-# parse = hh_api.parse_vacancies(load_vac)
-# print(type(parse))
+if __name__ == "__main__":
+    hh_api = HH()
+    hh_api.load_vacancies('python')
+    load_vac = hh_api.vacancies
+    #load_vac = hh_api.load_vacancies('python')
+    parse = hh_api.parse_vacancies(load_vac)
+
+    print(*parse, sep='\n')
+
+
