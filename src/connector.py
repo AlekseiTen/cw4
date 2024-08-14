@@ -49,16 +49,19 @@ class JsonConnector(Connector):
             top_list = json.load(file)
             return top_list
 
-    def del_vacancy(self, vacancies_list: list[dict], id: str):
+    def del_vacancy(self, vacancies_list: list[dict], id: str, filename=file_path):
         """Удаляет вакансию по id"""
         new_list = []
         for vac in vacancies_list:
-            if vac['id'] != id:
+            if vac['vacancy_id'] != id:
                 new_list.append(vac)
             else:
                 print(f'Вакансия с id {id} удаленна')
-        return new_list
 
+        with open(filename, 'w', encoding='utf-8') as file:
+            json.dump(new_list, file, ensure_ascii=False, indent=4)
+
+        return new_list
 
 if __name__ == "__main__":
     hh_api = HH()
@@ -68,7 +71,7 @@ if __name__ == "__main__":
     jsVac = JsonConnector()
     jsVac.save_vacancies(parse)
     load_vac_data = jsVac.load_file()
-    # deleted = jsVac.del_vacancy(load_vac_data, "104857154")
+    deleted = jsVac.del_vacancy(load_vac_data, "105787563")
     vac_obj_list = jsVac.create_vacancy_list(load_vac_data)
 
-    # print(save_vac)
+    print(deleted)
