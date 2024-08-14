@@ -1,0 +1,702 @@
+[
+    {
+        "vacancy_id": "105043389",
+        "vacancy_name": "Python разработчик (Junior+)",
+        "vacancy_url": "https://hh.ru/vacancy/105043389",
+        "salary_from": 70000,
+        "snippet_requirement": "Опыт работы backend/fullstack Python разработчиком от 1 года. Знание. - ООП. - Python 3.7+. - SQL (PostgreSQL). - Linux (на уровне..."
+    },
+    {
+        "vacancy_id": "105068287",
+        "vacancy_name": "Python разработчик (Middle)",
+        "vacancy_url": "https://hh.ru/vacancy/105068287",
+        "salary_from": 180000,
+        "snippet_requirement": "Опыт работы backend/fullstack Python разработчиком от 3 лет. Знание. - ООП. - Python 3.7+. - SQL (PostgreSQL). - Linux (на уровне..."
+    },
+    {
+        "vacancy_id": "104857154",
+        "vacancy_name": "Junior Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/104857154",
+        "salary_from": 350000,
+        "snippet_requirement": "Базовые знания Python версии 3.7-3.11. - Базовые знания Django и Django REST framework (умение написать Middleware а также..."
+    },
+    {
+        "vacancy_id": "105669347",
+        "vacancy_name": "Программист Python (Junior)",
+        "vacancy_url": "https://hh.ru/vacancy/105669347",
+        "salary_from": 60000,
+        "snippet_requirement": "Знание Python, понимание ООП. Знание основных шаблонов проектирования, алгоритмов и структур данных. Знание SQL и практический опыт работы с реляционными..."
+    },
+    {
+        "vacancy_id": "105381859",
+        "vacancy_name": "Junior Golang Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105381859",
+        "salary_from": 75000,
+        "snippet_requirement": "Опыт работы с CI/CD. Опыт с другими языками программирования, такими как Python, Java, C++ и т. д., будет преимуществом. "
+    },
+    {
+        "vacancy_id": "105398902",
+        "vacancy_name": "Junior Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105398902",
+        "salary_from": 50000,
+        "snippet_requirement": "Знание языка Python с опытом работы над собственными проектами. Опыт работы с системой контроля версий GIT. Опыт работы с базами..."
+    },
+    {
+        "vacancy_id": "105239608",
+        "vacancy_name": "C++ developer to Berlin",
+        "vacancy_url": "https://hh.ru/vacancy/105239608",
+        "salary_from": 7500,
+        "snippet_requirement": "A wide array of extremely challenging C++ development tasks. An international team of brilliant minds. We have our own range..."
+    },
+    {
+        "vacancy_id": "105651593",
+        "vacancy_name": "Intern Python Developer / Стажер Python-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105651593",
+        "salary_from": 150000,
+        "snippet_requirement": "Опыт работы с Python (pandas, numpy). Знание Multiprocessing и Async. Знакомы с web scraping и parsing (Selenium / Beautiful Soup or..."
+    },
+    {
+        "vacancy_id": "105702822",
+        "vacancy_name": "Python разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105702822",
+        "salary_from": 150000,
+        "snippet_requirement": "Опыт работы с Python от 3 лет. Уверенные знания FastAPI и опыт его использования в реальных проектах. Понимание принципов REST..."
+    },
+    {
+        "vacancy_id": "104129522",
+        "vacancy_name": "QA Automation",
+        "vacancy_url": "https://hh.ru/vacancy/104129522",
+        "salary_from": 130000,
+        "snippet_requirement": "Опыт в тестировании Web (front/back). Знание Python на уровне понимания ООП. Опыт работы с REST API, Swagger, HTTP/HTTPS..."
+    },
+    {
+        "vacancy_id": "105690722",
+        "vacancy_name": "Веб-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105690722",
+        "salary_from": 80000,
+        "snippet_requirement": "Опыт работы с серверными языками (например, Node.js, PHP, Python) и базами данных (например, MySQL, MongoDB). Понимание принципов адаптивной и кроссбраузерной..."
+    },
+    {
+        "vacancy_id": "105665279",
+        "vacancy_name": "Программист Python junior",
+        "vacancy_url": "https://hh.ru/vacancy/105665279",
+        "salary_from": 85000,
+        "snippet_requirement": "Python (asyncio, aiohttp, Tornado). Навыки работы с Linux (командная строка, API). Хорошее знание паттернов проектирования, структур данных и классических алгоритмов. "
+    },
+    {
+        "vacancy_id": "105682317",
+        "vacancy_name": "Тестировщик (QA Engineer)",
+        "vacancy_url": "https://hh.ru/vacancy/105682317",
+        "salary_from": 80000,
+        "snippet_requirement": "Знание и уверенное использование различных платформ и браузеров. Основы владения языком Python. Знание основ HTML. Опыт работы с фреймворком playwright."
+    },
+    {
+        "vacancy_id": "104645477",
+        "vacancy_name": "Junior Python developer",
+        "vacancy_url": "https://hh.ru/vacancy/104645477",
+        "salary_from": 0,
+        "snippet_requirement": "Знаешь Python и имеешь опыт написания pet-проектов. Знаком(а) с Django и Flask/Fast API. Понимаешь СУБД и можешь..."
+    },
+    {
+        "vacancy_id": "104648164",
+        "vacancy_name": "Mobile QA Engineer, офис/гибрид Москва",
+        "vacancy_url": "https://hh.ru/vacancy/104648164",
+        "salary_from": 100000,
+        "snippet_requirement": "Построение тестовой модели и тест-кейсов. Тестирование web-приложений (frontend, backend) от 1 года. Знание инструментов Insomnia, Postman, Swagger. "
+    },
+    {
+        "vacancy_id": "102823795",
+        "vacancy_name": "Backend-разработчик (Python)",
+        "vacancy_url": "https://hh.ru/vacancy/102823795",
+        "salary_from": 70000,
+        "snippet_requirement": "Знание Django и умение применять базовые алгоритмы. Опыт работы с базами данных (MySQL, PostgreSQL). Будет хорошо, если вы использовали NoSQL. "
+    },
+    {
+        "vacancy_id": "105320055",
+        "vacancy_name": "Frontend Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105320055",
+        "salary_from": 3000,
+        "snippet_requirement": "Skills: - 2+ years of React and Typescript experience. - experience with HTML5 and CSS3. - Python, Node, SQL (bonus). "
+    },
+    {
+        "vacancy_id": "105726183",
+        "vacancy_name": "HTML-верстальщик",
+        "vacancy_url": "https://hh.ru/vacancy/105726183",
+        "salary_from": 50000,
+        "snippet_requirement": "Начальные знания Python. Написание запросов MySQL(CRUD). Знания HTML и базового CSS."
+    },
+    {
+        "vacancy_id": "105394925",
+        "vacancy_name": "Junior Backend разработчик (Python)",
+        "vacancy_url": "https://hh.ru/vacancy/105394925",
+        "salary_from": 110000,
+        "snippet_requirement": "Знание Python 3.8+ (junior). Знание одного из фреймворков: Django, Flask, AIOHTTP, FastAPI. Знание SQL. Работа в среде Linux. "
+    },
+    {
+        "vacancy_id": "105480762",
+        "vacancy_name": "QA Manual Engineer ( Middle+/Senior )",
+        "vacancy_url": "https://hh.ru/vacancy/105480762",
+        "salary_from": 150000,
+        "snippet_requirement": "Базовые навыки написания автотестов на Java и/или Python. Умеете писать простые / средние SQL-запросы (PostgreSQL ). Опыт работы с очередями..."
+    },
+    {
+        "vacancy_id": "103033130",
+        "vacancy_name": "Python developer",
+        "vacancy_url": "https://hh.ru/vacancy/103033130",
+        "salary_from": 200000,
+        "snippet_requirement": "Опыт работы в роли backend developer от 3-х лет. Опыт работы с FastAPI. Умение разрабатывать CI/CD pipelines. "
+    },
+    {
+        "vacancy_id": "105649257",
+        "vacancy_name": "Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105649257",
+        "salary_from": 0,
+        "snippet_requirement": "Commercial working experience with Python 3+ year. Knowledge of general programming issues: design patterns, data structures, algorithms. "
+    },
+    {
+        "vacancy_id": "103979242",
+        "vacancy_name": "Backend разработчик Python+Elixir",
+        "vacancy_url": "https://hh.ru/vacancy/103979242",
+        "salary_from": 0,
+        "snippet_requirement": "Опыт в backend разработке на Pytnon/Go и Elixir от 2-х лет обязательно. Уверенное знание стека: Docker, PostgeSQL, Elixir..."
+    },
+    {
+        "vacancy_id": "105681092",
+        "vacancy_name": "Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105681092",
+        "salary_from": 150000,
+        "snippet_requirement": "Хорошее знание фреймворков Django + DRF (приоритет) , FastAPI. Хорошее знание SQL. Понимание принципов ООП (SOLID, DRY, KISS). Уверенный уровень владения..."
+    },
+    {
+        "vacancy_id": "105648141",
+        "vacancy_name": "Тьютор/преподаватель/учитель",
+        "vacancy_url": "https://hh.ru/vacancy/105648141",
+        "salary_from": 40000,
+        "snippet_requirement": "Транслирование программ КиберШколы по методическим материалам и передача практического опыта для детей 6 - 14 лет. - Знание базовых основ компьютерной грамотности. - "
+    },
+    {
+        "vacancy_id": "104976520",
+        "vacancy_name": "Аналитик данных",
+        "vacancy_url": "https://hh.ru/vacancy/104976520",
+        "salary_from": 70000,
+        "snippet_requirement": "Работа с данными из различных источников (excel, выгрузки из баз данных, 1С итд). Знание SQL и/или Python плюсом."
+    },
+    {
+        "vacancy_id": "104008693",
+        "vacancy_name": "Удаленный менеджер (срочно, возможна подработка)",
+        "vacancy_url": "https://hh.ru/vacancy/104008693",
+        "salary_from": 47990,
+        "snippet_requirement": "У вас грамотная письменная речь. Умеете находить подход к людям. Любите много общаться по телефону. Наличие ПК/ноутбука, стабильного интернета..."
+    },
+    {
+        "vacancy_id": "105541529",
+        "vacancy_name": "Заместитель начальника службы информационных технологий",
+        "vacancy_url": "https://hh.ru/vacancy/105541529",
+        "salary_from": 0,
+        "snippet_requirement": "Опыт управления процессами и проектами в области ИТ. Опыт управление рисками ИТ. Опыт управление договорами в проектах. Знание Python, SQL..."
+    },
+    {
+        "vacancy_id": "102757492",
+        "vacancy_name": "Junior Python-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/102757492",
+        "salary_from": 0,
+        "snippet_requirement": "Уверенное знание Python. Уверенное знание PostgreSQL и умение писать оптимизированные запросы. Опыт работы с Git. Опыт работы с Pandas. "
+    },
+    {
+        "vacancy_id": "104907528",
+        "vacancy_name": "Python разработчик (офис)",
+        "vacancy_url": "https://hh.ru/vacancy/104907528",
+        "salary_from": 0,
+        "snippet_requirement": "Коммерческий опыт работы на python от 2х лет. Опыт разработки на FastApi. Понимание разницы между многопоточность и асинхронность; многопроцессорность..."
+    },
+    {
+        "vacancy_id": "104290050",
+        "vacancy_name": "Junior Frontend React (стажер)",
+        "vacancy_url": "https://hh.ru/vacancy/104290050",
+        "salary_from": 30000,
+        "snippet_requirement": "Выпускник или студент старших курсов высшего образования по специальностям - математика, физика, прикладная математика, информатика или подобные. - Cтартап с серьезными международными..."
+    },
+    {
+        "vacancy_id": "105357916",
+        "vacancy_name": "Младший backend-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105357916",
+        "salary_from": 45000,
+        "snippet_requirement": "Базовые знания одного из языков программирования — Python, Java, C#, PHP, Ruby, Go или JavaScript. У нас есть микросервисы почти на..."
+    },
+    {
+        "vacancy_id": "105661383",
+        "vacancy_name": "Python-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105661383",
+        "salary_from": 60000,
+        "snippet_requirement": "Хорошее знание Python (опыт 2+ года). Понимание основ темы браузерных отпечатков(browser fingerprinting). Понимание парсинга и работы с анти..."
+    },
+    {
+        "vacancy_id": "103299819",
+        "vacancy_name": "Специалист департамента внутреннего аудита",
+        "vacancy_url": "https://hh.ru/vacancy/103299819",
+        "salary_from": 110000,
+        "snippet_requirement": "...разработкой путей решения проблем. MS Office (Power Point, Excel), желательны основы программирования Python. Аналитические навыки, развитое логическое мышление. Коммуникативные навыки."
+    },
+    {
+        "vacancy_id": "105358654",
+        "vacancy_name": "QA engineer (ручное тестирование)",
+        "vacancy_url": "https://hh.ru/vacancy/105358654",
+        "salary_from": 120000,
+        "snippet_requirement": "Опыт работы в QA от 2 лет. Глубокое знание методик тестирования. Понимание процесса разработки ПО и методов обеспечения его качества. "
+    },
+    {
+        "vacancy_id": "105313924",
+        "vacancy_name": "Python (Junior) разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105313924",
+        "salary_from": 0,
+        "snippet_requirement": "Мы готовы рассмотреть кандидатов без опыта, но с завершёнными курсами python разработки. Необходимые знания для нашего будущего коллеги: Python (минимально..."
+    },
+    {
+        "vacancy_id": "104724178",
+        "vacancy_name": "Junior Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/104724178",
+        "salary_from": 50000,
+        "snippet_requirement": "Умение оценивать и планировать свою работу. Интерес к TypeScript + Node.js (помимо Python). Представляешь себе, что такое CI / CD (Gitlab..."
+    },
+    {
+        "vacancy_id": "97263333",
+        "vacancy_name": "SQL разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/97263333",
+        "salary_from": 150000,
+        "snippet_requirement": "Плюсом будет опыт программирования на языках C#, VB .NET, VBA и/или Delphi, Python, а также навыки разработки OLAP-кубов..."
+    },
+    {
+        "vacancy_id": "104638836",
+        "vacancy_name": "Разработчик Python",
+        "vacancy_url": "https://hh.ru/vacancy/104638836",
+        "salary_from": 100000,
+        "snippet_requirement": "Python 3.12. Хорошее понимание и опыт с фреймворком Django. Навыки работы с HTML/CSS/Bootstrap (с шаблонизаторами Django/Jinja..."
+    },
+    {
+        "vacancy_id": "103908864",
+        "vacancy_name": "Frontend-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/103908864",
+        "salary_from": 80000,
+        "snippet_requirement": "Знание Javascript и особенно React. Понимание REST-запросов. HTML/CSS. Знание Python (хоть какое-то). Опыт взаимодействия с MUI-фреймворком. "
+    },
+    {
+        "vacancy_id": "104540200",
+        "vacancy_name": "Инженер по тестированию ПО",
+        "vacancy_url": "https://hh.ru/vacancy/104540200",
+        "salary_from": 150000,
+        "snippet_requirement": "Знания SQL, BigQuery / Clickhouse - будут большим плюсом. ️ Знание Python на уровне, достаточном для написания автотестов. ️ Знание и любовь к Linux. ️ "
+    },
+    {
+        "vacancy_id": "105637960",
+        "vacancy_name": "Python Fullstack разработчик (Junior)",
+        "vacancy_url": "https://hh.ru/vacancy/105637960",
+        "salary_from": 75000,
+        "snippet_requirement": "Обширную базу знаний. Возможность найти коллег по интересам для участия в различных внерабочих активностях."
+    },
+    {
+        "vacancy_id": "105337041",
+        "vacancy_name": "Аналитик данных",
+        "vacancy_url": "https://hh.ru/vacancy/105337041",
+        "salary_from": 150000,
+        "snippet_requirement": "...научим), Python (30%), SQL(10%), Excel (10%). Высшее техническое образование. Свободное владение Excel (ВПР, сводные таблицы. Базовое владение Python (Pandas..."
+    },
+    {
+        "vacancy_id": "105680533",
+        "vacancy_name": "Middle Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105680533",
+        "salary_from": 80000,
+        "snippet_requirement": "Опыт коммерческой разработки от 2 лет. Уверенное знание и опыт работы с Python/Flask. No-SQL (MongoDB/Redis). "
+    },
+    {
+        "vacancy_id": "104991336",
+        "vacancy_name": "Junior python (django) разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/104991336",
+        "salary_from": 60000,
+        "snippet_requirement": "Желание развиваться. Умение писать чистый поддерживаемый код. Умение читать чужой код. Будет плюсом:"
+    },
+    {
+        "vacancy_id": "105403280",
+        "vacancy_name": "Junior Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105403280",
+        "salary_from": 650,
+        "snippet_requirement": "Опыт коммерческой разработки (не стажировки) от 6 месяцев. Знания Python 3.9+. Знание того как работать со стандартной библиотекой..."
+    },
+    {
+        "vacancy_id": "105123280",
+        "vacancy_name": "Middle Product Analyst",
+        "vacancy_url": "https://hh.ru/vacancy/105123280",
+        "salary_from": 270000,
+        "snippet_requirement": "Знания матстата и теорвера. SQL (ClickHouse, MySQL). Python (библиотеки для анализа данных, мат. статистики и работы с БД). BI-системы. "
+    },
+    {
+        "vacancy_id": "105625714",
+        "vacancy_name": "Middle Backend Developer Python",
+        "vacancy_url": "https://hh.ru/vacancy/105625714",
+        "salary_from": 20000,
+        "snippet_requirement": "Инициативного, ответственного и самоорганизованного разработчика Python Backend."
+    },
+    {
+        "vacancy_id": "105647723",
+        "vacancy_name": "QA-инженер",
+        "vacancy_url": "https://hh.ru/vacancy/105647723",
+        "salary_from": 120000,
+        "snippet_requirement": "Опыт работы с высоконагруженными системами. Опыт проведения нагрузочного тестирования. Опыт написания автотестов Python\\C#\\Java web-интерфейса (selenium + selenide)."
+    },
+    {
+        "vacancy_id": "105483838",
+        "vacancy_name": "Начальник отдела технической поддержки в продуктовую IT-компанию",
+        "vacancy_url": "https://hh.ru/vacancy/105483838",
+        "salary_from": 250000,
+        "snippet_requirement": "Знание языков для написания простых скриптов (bash, python). Опыт работы с PostgreSQL и MySQL (MariaDB), написание простых SQL запросов: Сертификация..."
+    },
+    {
+        "vacancy_id": "104981722",
+        "vacancy_name": "Junior+ / Middle CV-Engineer / Инженер по компьютерному зрению",
+        "vacancy_url": "https://hh.ru/vacancy/104981722",
+        "salary_from": 110000,
+        "snippet_requirement": "...обработки сигналов для прикладных задач обработки изображений. Владение языком программирования Python. Опыт работы с основными библиотеками и фреймворками машинного обучения. "
+    },
+    {
+        "vacancy_id": "105640717",
+        "vacancy_name": "QA (тестировщик)",
+        "vacancy_url": "https://hh.ru/vacancy/105640717",
+        "salary_from": 163000,
+        "snippet_requirement": "Отличное владение Postma. Опыт автоматизированного тестирования WEB UI при помощи Python, Pytest, Playwright. Опыт работы с Docker, Selenoid. "
+    },
+    {
+        "vacancy_id": "105338726",
+        "vacancy_name": "Junior Python developer",
+        "vacancy_url": "https://hh.ru/vacancy/105338726",
+        "salary_from": 0,
+        "snippet_requirement": "Знание Python инструментов тестирования (Selenium, PyTest). Понимание принципов антидетекта и опыт применения соответствующих методов. Коммуникабельность и умение работать в команде. "
+    },
+    {
+        "vacancy_id": "105697583",
+        "vacancy_name": "Python разработчик бота в TG (part-time)",
+        "vacancy_url": "https://hh.ru/vacancy/105697583",
+        "salary_from": 80000,
+        "snippet_requirement": "Опыт работы с python и библиотеками aiogram или python-telegram-bot. Опыт работы в unix системах. Опыт работы с SQL..."
+    },
+    {
+        "vacancy_id": "103878155",
+        "vacancy_name": "Аналитик данных",
+        "vacancy_url": "https://hh.ru/vacancy/103878155",
+        "salary_from": 0,
+        "snippet_requirement": "Знание Python. Опыт работы с базами данных и системами управления базами данных (PostgreSQL). Понимание основных методов статистического анализа и машинного..."
+    },
+    {
+        "vacancy_id": "105142852",
+        "vacancy_name": "Python разработчик (FastAPI)",
+        "vacancy_url": "https://hh.ru/vacancy/105142852",
+        "salary_from": 250000,
+        "snippet_requirement": "От 4 лет опыта разработки на Python 3. Опыт работы с асинхронными фреймворками. Опыт работы с микросервисной архитектурой и монолитом. "
+    },
+    {
+        "vacancy_id": "105533945",
+        "vacancy_name": "JS-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105533945",
+        "salary_from": 80000,
+        "snippet_requirement": "нет требований"
+    },
+    {
+        "vacancy_id": "104988957",
+        "vacancy_name": "PHP разработчик (Fullstack)",
+        "vacancy_url": "https://hh.ru/vacancy/104988957",
+        "salary_from": 0,
+        "snippet_requirement": "...10 Тб и более), опыт работы с Greenplum, Clickhouse. Опыт скриптинга на прочих языках программирования (Lua, Python) и Shell-скриптинг."
+    },
+    {
+        "vacancy_id": "105385043",
+        "vacancy_name": "Junior Golang разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105385043",
+        "salary_from": 0,
+        "snippet_requirement": "Опыт работы с SQL. Знание паттернов проектирования приложений. Знание Docker. Опыт работы Git. Опыт работы с PHP и Python.​​​​​​​."
+    },
+    {
+        "vacancy_id": "103940812",
+        "vacancy_name": "Стажёр журналист-редактор",
+        "vacancy_url": "https://hh.ru/vacancy/103940812",
+        "salary_from": 50000,
+        "snippet_requirement": "Базовый опыт работы с СhatGPT версии 3,5 и выше. Базовое знание Python. Способность планировать и организовывать рабочий процесс. "
+    },
+    {
+        "vacancy_id": "104645670",
+        "vacancy_name": "Python/Django Разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/104645670",
+        "salary_from": 10000000,
+        "snippet_requirement": "Навыки написания технической документации и отчетов о проделанной работе. Знание и навыки работы с Python 3, Django, Django Rest framework..."
+    },
+    {
+        "vacancy_id": "105032179",
+        "vacancy_name": "Системный администратор",
+        "vacancy_url": "https://hh.ru/vacancy/105032179",
+        "salary_from": 100000,
+        "snippet_requirement": "...unix систем (SELinux, fail2ban и др.). Практические навыки настройки и поддержания высоконагруженных, отказоустойчивых систем. Опыт с python (django)."
+    },
+    {
+        "vacancy_id": "105296322",
+        "vacancy_name": "Разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105296322",
+        "salary_from": 50000,
+        "snippet_requirement": "Опыт работы с SQL (MySQL): сложные запросы, хранимые процедуры. Базовые знания Python. Знание операционных систем Linux на уровне администратора. "
+    },
+    {
+        "vacancy_id": "105412261",
+        "vacancy_name": "Программист Python/разработчик (питон/пайтон), бэкенд, backend",
+        "vacancy_url": "https://hh.ru/vacancy/105412261",
+        "salary_from": 30000,
+        "snippet_requirement": "Знание Python 3. Умение или желание научиться работать с базами данных. Инициативность, проактивность и самостоятельность. Умение оценивать и планировать свою..."
+    },
+    {
+        "vacancy_id": "105443083",
+        "vacancy_name": "Биоинформатик",
+        "vacancy_url": "https://hh.ru/vacancy/105443083",
+        "salary_from": 90000,
+        "snippet_requirement": "Английский язык не ниже Upper Intermediate. Знание языков программирования - Python, R. Опыт в геномной биоинформатике, написании пайплайнов и аннотации генетических..."
+    },
+    {
+        "vacancy_id": "102263018",
+        "vacancy_name": "Middle Backend разработчик (Python + Golang)",
+        "vacancy_url": "https://hh.ru/vacancy/102263018",
+        "salary_from": 200000,
+        "snippet_requirement": "Уверенное знание Python 3.8+ (middle). Уверенное знание Golang 1.20+ (middle). Понимание конкурентного и/или параллельного кода..."
+    },
+    {
+        "vacancy_id": "105541411",
+        "vacancy_name": "Заместитель начальника службы информационных технологий",
+        "vacancy_url": "https://hh.ru/vacancy/105541411",
+        "salary_from": 0,
+        "snippet_requirement": "Опыт управления процессами и проектами в области ИТ. Опыт управление рисками ИТ. Опыт управление договорами в проектах. Знание Python, SQL..."
+    },
+    {
+        "vacancy_id": "105575453",
+        "vacancy_name": "Python разработчик (telеgram bot)",
+        "vacancy_url": "https://hh.ru/vacancy/105575453",
+        "salary_from": 700,
+        "snippet_requirement": "Технические навыки: Программирование: Знание языков программирования, таких как Python, JavaScript. API Telegram: Понимание работы с Telegram Bot API для отправки..."
+    },
+    {
+        "vacancy_id": "105340141",
+        "vacancy_name": "Аналитик данных",
+        "vacancy_url": "https://hh.ru/vacancy/105340141",
+        "salary_from": 150000,
+        "snippet_requirement": "Уверенное владение SQL (Clickhouse, Postgres) и умение реализовывать сложные запросы. Опыт работы в Python (библиотеки - pandas/ numpy/ matplotlib/ seaborn). "
+    },
+    {
+        "vacancy_id": "105543979",
+        "vacancy_name": "Junior+ Python Developer",
+        "vacancy_url": "https://hh.ru/vacancy/105543979",
+        "salary_from": 90000,
+        "snippet_requirement": "Владение Python 3.x и asyncio на базовом уровне. Понимание основных алгоритмов и структур данных. Знание ООП и паттернов программирования. "
+    },
+    {
+        "vacancy_id": "105546929",
+        "vacancy_name": "Web-программист",
+        "vacancy_url": "https://hh.ru/vacancy/105546929",
+        "salary_from": 120000,
+        "snippet_requirement": "Знания: Python, Django, HTML, CSS, SQL, JavaScript, jQuery, Ajax, XML, JSON. Опыт работы с Nginx. Навыки верстки под современные браузеры..."
+    },
+    {
+        "vacancy_id": "105720753",
+        "vacancy_name": "Fullstack JUNIOR (государственная гражданская служба)",
+        "vacancy_url": "https://hh.ru/vacancy/105720753",
+        "salary_from": 60000,
+        "snippet_requirement": "нет требований"
+    },
+    {
+        "vacancy_id": "105415952",
+        "vacancy_name": "Инженер по тестированию",
+        "vacancy_url": "https://hh.ru/vacancy/105415952",
+        "salary_from": 0,
+        "snippet_requirement": "Базовые знания SQL. Знание языков программирования Python или Java. Уверенное владение офисным ПО (текстовые редакторы, редакторы таблиц, презентаций). "
+    },
+    {
+        "vacancy_id": "104018898",
+        "vacancy_name": "Программист",
+        "vacancy_url": "https://hh.ru/vacancy/104018898",
+        "salary_from": 60000,
+        "snippet_requirement": "Опыт командной разработки. Будет плюсом: - Опыт работы с Git. - Опыт работы с Docker. - Опыт работы с Python3."
+    },
+    {
+        "vacancy_id": "103501454",
+        "vacancy_name": "Администратор сайта",
+        "vacancy_url": "https://hh.ru/vacancy/103501454",
+        "salary_from": 80000,
+        "snippet_requirement": "Владеть: Adobe Photoshop, Adobe Illustrator, Git, phpMyAdmin, Docker, Ubuntu Server, Jetbrains Phpstorm, уверенный пользователь гугл-таблиц, уверенный пользователь метрики и..."
+    },
+    {
+        "vacancy_id": "105661463",
+        "vacancy_name": "Python разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105661463",
+        "salary_from": 60000,
+        "snippet_requirement": "1) 1.5+ год опыта работы в качестве бэкенд-разработчика (Python). 2) Опыт в разработке чат-ботов на aiogram..."
+    },
+    {
+        "vacancy_id": "105535967",
+        "vacancy_name": "Python developer",
+        "vacancy_url": "https://hh.ru/vacancy/105535967",
+        "salary_from": 230000,
+        "snippet_requirement": "Опыт коммерческой разработки на Python от 4 лет. Опыт работы с веб-фреймворком Django (Django Rest Framework DRF). "
+    },
+    {
+        "vacancy_id": "105036791",
+        "vacancy_name": "Python Backend разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105036791",
+        "salary_from": 120000,
+        "snippet_requirement": "Умение писать REST API. - Умение писать unit-тесты. - Linux и умение развертывать приложения. - Docker, CI/CD через Gitlab, Ansible. - "
+    },
+    {
+        "vacancy_id": "104142627",
+        "vacancy_name": "Инженер внедрения",
+        "vacancy_url": "https://hh.ru/vacancy/104142627",
+        "salary_from": 120000,
+        "snippet_requirement": "Опыт настройки Asterisk. Умение читать и понимать json, geojson, код на python. Опыт работы с VoIP/SIP сетями, а также..."
+    },
+    {
+        "vacancy_id": "105383640",
+        "vacancy_name": "Python разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105383640",
+        "salary_from": 150000,
+        "snippet_requirement": "Опыт разработки на Python от 3-х лет, опыт с Django обязателен. Понимание веб-стека, принципов REST и построения реляционных..."
+    },
+    {
+        "vacancy_id": "105264524",
+        "vacancy_name": "Программист Python",
+        "vacancy_url": "https://hh.ru/vacancy/105264524",
+        "salary_from": 90000,
+        "snippet_requirement": "Опыт работы в коммерческой разработке от 1 года ( Python, Django), уверенная работа с DRF. - Опыт разработки API. Знание: Asyncio, Multithreading..."
+    },
+    {
+        "vacancy_id": "105072888",
+        "vacancy_name": "Junior Python разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/105072888",
+        "salary_from": 60000,
+        "snippet_requirement": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение Python 2/3. * Владение (My)SQL, конкретно: * * Иметь..."
+    },
+    {
+        "vacancy_id": "105094788",
+        "vacancy_name": "Junior Data Engineer",
+        "vacancy_url": "https://hh.ru/vacancy/105094788",
+        "salary_from": 150000,
+        "snippet_requirement": "знание SQL (проверяется тестированием). -аналитическое мышление. -умение работы в команде."
+    },
+    {
+        "vacancy_id": "99179158",
+        "vacancy_name": "Специалист по искусственному интеллекту (офис)",
+        "vacancy_url": "https://hh.ru/vacancy/99179158",
+        "salary_from": 120000,
+        "snippet_requirement": "Знание основы визуального промпт-инженеринга. Опыт программирования на Python или др. Уверенный практический опыт работы с GPT-3, GPT-4..."
+    },
+    {
+        "vacancy_id": "105538853",
+        "vacancy_name": "Специалист по IT",
+        "vacancy_url": "https://hh.ru/vacancy/105538853",
+        "salary_from": 5000000,
+        "snippet_requirement": "Базовый уровень знаний по языку SQL (Знание специфики Oracle приветствуется). Знание Python приветствуется. Свободное владение русским языком, английский на уровне..."
+    },
+    {
+        "vacancy_id": "103988379",
+        "vacancy_name": "Системный администратор",
+        "vacancy_url": "https://hh.ru/vacancy/103988379",
+        "salary_from": 200000,
+        "snippet_requirement": "Понимание принципов построения распределенных и отказоустойчивых систем. Опыт автоматизации задач по администрированию - bash/python scripting. Опыт использования docker. "
+    },
+    {
+        "vacancy_id": "104239189",
+        "vacancy_name": "Back-end разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/104239189",
+        "salary_from": 50000,
+        "snippet_requirement": "Плюсом будет владение языком программирование python. Ответственность и стремление довести работу до конца — каждый член команды берёт ответственность за свою..."
+    },
+    {
+        "vacancy_id": "103275424",
+        "vacancy_name": "Маркетолог-аналитик",
+        "vacancy_url": "https://hh.ru/vacancy/103275424",
+        "salary_from": 0,
+        "snippet_requirement": "Владение SQL, Python, Excel. Способность анализировать. Знание базовых маркетинговых метрик. Внимательность к деталям и аккуратность. Самоорганизация и эффективное планирование. "
+    },
+    {
+        "vacancy_id": "103215804",
+        "vacancy_name": "Junior Python разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/103215804",
+        "salary_from": 230000,
+        "snippet_requirement": "Знание Python, REST API, Django. Неплохо если опыт с фронтом на JS. Умение писать документацию на API по коду. "
+    },
+    {
+        "vacancy_id": "104150762",
+        "vacancy_name": "Python-разработчик",
+        "vacancy_url": "https://hh.ru/vacancy/104150762",
+        "salary_from": 2000,
+        "snippet_requirement": "Пишете качественный и эффективный код (в том числе асинхронный) на Python 3. Имеете опыт разработки на Django. Опыт разработки на..."
+    },
+    {
+        "vacancy_id": "105326075",
+        "vacancy_name": "Младший аналитик данных",
+        "vacancy_url": "https://hh.ru/vacancy/105326075",
+        "salary_from": 30000,
+        "snippet_requirement": "Образование в профильной или смежной области. Знание Python (в особенности pandas), Google Sheets, Google Colab, GitHub, API. Будет круто, если..."
+    },
+    {
+        "vacancy_id": "105394247",
+        "vacancy_name": "Junior Backend разработчик (Golang)",
+        "vacancy_url": "https://hh.ru/vacancy/105394247",
+        "salary_from": 110000,
+        "snippet_requirement": "Знание Golang 1.20+ (junior). Базовые знания Python 3.8+ (интеграционные тесты, скрипты). Опыт написания клиентов и серверов..."
+    },
+    {
+        "vacancy_id": "104384128",
+        "vacancy_name": "Специалист по машинному обучению",
+        "vacancy_url": "https://hh.ru/vacancy/104384128",
+        "salary_from": 80000,
+        "snippet_requirement": "Уверенное владение языком программирования Python и использованием Jupyter для разработки и тестирования. Опыт работы с фреймворками PyTorch, TensorFlow, Scikit-Learn. "
+    },
+    {
+        "vacancy_id": "105644130",
+        "vacancy_name": "Тестировщик",
+        "vacancy_url": "https://hh.ru/vacancy/105644130",
+        "salary_from": 50000,
+        "snippet_requirement": "Опыт работы с docker-контейнерами. Знание основ программирования Python или JS. Знание основ SQL. Опыт работы с Git. "
+    },
+    {
+        "vacancy_id": "105259444",
+        "vacancy_name": "Junior Data scientist (Аналитик)",
+        "vacancy_url": "https://hh.ru/vacancy/105259444",
+        "salary_from": 60000,
+        "snippet_requirement": "Знакомство с инструментами визуализации данных (например, Tableau, Power BI). Базовые знания Python или R для анализа данных. Способность анализировать данные..."
+    },
+    {
+        "vacancy_id": "104896344",
+        "vacancy_name": "Разработчик Python",
+        "vacancy_url": "https://hh.ru/vacancy/104896344",
+        "salary_from": 200000,
+        "snippet_requirement": "Понимание принципов ООП. Хорошее понимание протокола HTTP и REST. Python 3, Django, Git, SQL. Опыт разворачивания решения на сервере (nginx..."
+    },
+    {
+        "vacancy_id": "104008694",
+        "vacancy_name": "Удаленный менеджер (срочно, возможна подработка)",
+        "vacancy_url": "https://hh.ru/vacancy/104008694",
+        "salary_from": 47990,
+        "snippet_requirement": "У вас грамотная письменная речь. Умеете находить подход к людям. Любите много общаться по телефону. Наличие ПК/ноутбука, стабильного интернета..."
+    },
+    {
+        "vacancy_id": "105319975",
+        "vacancy_name": "Senior Backend Engineer",
+        "vacancy_url": "https://hh.ru/vacancy/105319975",
+        "salary_from": 5000,
+        "snippet_requirement": "7+ years of backend or data engineering experience. Proficiency with Python, Node.js, TypeScript, and PostgreSQL. Extensive experience with AWS..."
+    },
+    {
+        "vacancy_id": "105346702",
+        "vacancy_name": "Веб-программист",
+        "vacancy_url": "https://hh.ru/vacancy/105346702",
+        "salary_from": 48000,
+        "snippet_requirement": "PHP (\"1С-Битрикс\", Wordpress, Laravel). Python. MySQL. Gitlab. Jira. PhpStorm."
+    },
+    {
+        "vacancy_id": "105727143",
+        "vacancy_name": "QA-Engineer (Иженер по тестированию)",
+        "vacancy_url": "https://hh.ru/vacancy/105727143",
+        "salary_from": 150000,
+        "snippet_requirement": "Начальный опыт (минимум) автоматизации тестирования продуктов на платформе 1С и/или Python. От 3-х лет в тестировании. "
+    }
+]
